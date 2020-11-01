@@ -3,7 +3,7 @@ Welcome to the Git Guru!
 Please add a question below. If it's an especially good question -- or a question with an especially good answer -- it might be added to the Git Guru for future generations to enjoy.
 
 ### Put your question here!
-Q: How much wood could a wood chuck chuck if a wood chuck could chuck wood?
+Q: What are Michael Frost's and Jack Dietz's favorite color?
 #################
 ## Past questions
 #################
